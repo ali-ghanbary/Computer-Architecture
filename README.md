@@ -1,6 +1,6 @@
-# Computer-Architecture
+# Computer Architecture Course Projects
 
-Course with professor Saeed Safari
+Projects for the computer architecture course at Tehran university.
+> Course with professor Saeed Safari
 
-
-Contributors:  [**Ali Ghanbari**](https://github.com/alighanbari2002) & [**Mohammad Mashreghi**](https://github.com/M-Mashreghi)
+[**Ali Ghanbari**](https://github.com/alighanbari2002) & [**Mohammad Mashreghi**](https://github.com/M-Mashreghi)
